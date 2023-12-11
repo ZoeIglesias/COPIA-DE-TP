@@ -1,0 +1,30 @@
+{
+	"settings": { 
+		"debug.onTaskErrors": "abort", 
+		"files.associations": {
+			"*.h": "c",
+			"cmath": "c",
+			"cstdlib": "c",
+			"type_traits": "c"
+		}, 
+		"C_Cpp.errorSquiggles": "disabled", 
+	}, 
+	
+	"folders": [
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "filesystem"
+		},
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "shared"
+		}
+	]
+}
